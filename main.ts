@@ -1,6 +1,3 @@
-input.onButtonPressed(Button.A, function () {
-	
-})
 modules.servo1.setEnabled(true)
 myModules.servo2.setEnabled(true)
 myModules.servo3.setEnabled(true)
